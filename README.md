@@ -45,7 +45,7 @@ $$
 
 
 
-### ![moda](http://s3-sa-east-1.amazonaws.com/descomplica-blog/wp-content/uploads/2015/09/mode.gif)
+###                          ![moda](http://s3-sa-east-1.amazonaws.com/descomplica-blog/wp-content/uploads/2015/09/mode.gif)
 
 ------
 
@@ -56,7 +56,9 @@ $$
 ##### A mediana indica o valor médio em um conjunto de números ordenados. Ela indica qual é o valor que está exatamente no meio de um conjunto de dados, quando eles estão ordenados.
 
 ##### A Mediana nos diz que metade (50%) dos valores do conjunto de dados está abaixo dela e a outra metade está acima dela.
-![Mediana](https://educa.ibge.gov.br/images/vamoscontar/recursos/mediana/mediana_animacao4.gif)
+###                      ![mediana](https://media3.giphy.com/media/8vttvGma5rew6Ox0lU/giphy.gif?cid=790b7611aafcca30da88426db4c67420d3165d17e899f502&rid=giphy.gif&ct=g)
+
+
 
 
 
