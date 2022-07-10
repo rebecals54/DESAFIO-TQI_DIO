@@ -1,3 +1,7 @@
+
+
+
+
 # DESAFIO-TQI_DIO
 
 #Média | Moda |Mediana 
@@ -29,9 +33,47 @@ $$
 (10+6+7+5)/4 =7
 $$
 
-```html
-<html><head><title>HTML Calculator</title></head><body bgcolor= "# 000000" text= "gold"><form name="calculator" ><input type="button" value="1" onClick="document.calculator.ans.value+='1'"><input type="button" value="2" onClick="document.calculator.ans.value+='2'"><input type="button" value="3" onClick="document.calculator.ans.value+='3'"><input type="button" value="+" onClick="document.calculator.ans.value+='+'"><input type="button" value="4" onClick="document.calculator.ans.value+='4'"><input type="button" value="5" onClick="document.calculator.ans.value+='5'"><input type="button" value="6" onClick="document.calculator.ans.value+='6'"><input type="button" value="-" onClick="document.calculator.ans.value+='-'"><input type="button" value="7" onClick="document.calculator.ans.value+='7'"><input type="button" value="8" onClick="document.calculator.ans.value+='8'"><input type="button" value="9" onClick="document.calculator.ans.value+='9'"><input type="button" value="*" onClick="document.calculator.ans.value+='*'"><input type="button" value="/" onClick="document.calculator.ans.value+='/'"><input type="button" value="0" onClick="document.calculator.ans.value+='0'"><input type="reset" value="Reset"><input type="button" value="=" onClick="document.calculator.ans.value=eval(document.calculator.ans.value)">Solution is <input type="textfield" name="ans" value=""></form></body></html>
-```
+### [Calculadora Virtual](https://www.calculadoraonline.com.br/calculadora-virtual-gratis)
+
+------
+
+## Moda
+
+### *Definição*
+
+##### A moda de um conjunto de valores de uma variável estatística corresponde ao valor que é mais vezes observado num determinado estudo ou, por outras palavras, ao efetivo com maior frequência absoluta. Por exemplo, no conjunto de valores 2 3 4 3 5 3 7 8 3 8, o 3 é, claramente, o mais frequente, pelo que a moda deste conjunto de valores é 3. Acontece que em muitas situações pode não haver um valor único com maior frequência absoluta que todos os outros, como no exemplo anterior, mas sim existirem dois, três ou até mais valores nessas condições. Podemos assim falar na existência de duas, três ou mais modas. Desta forma, se uma dada distribuição só tiver uma moda recebe a designação de unimodal, se tiver duas modas é chamada bimodal e se tiver mais que duas modas designa-se por plurimodal ou multimodal. Por vezes acontece que todos os valores da variável estatística em estudo têm a mesma frequência absoluta. Neste caso diz-se que a distribuição é amodal, isto é, não tem moda.
+
+
+
+![moda](http://s3-sa-east-1.amazonaws.com/descomplica-blog/wp-content/uploads/2015/09/mode.gif)
+
+------
+
+## Mediana
+
+### *Definição*
+
+##### A mediana indica o valor médio em um conjunto de números ordenados. Ela indica qual é o valor que está exatamente no meio de um conjunto de dados, quando eles estão ordenados.
+
+#####A Mediana nos diz que metade (50%) dos valores do conjunto de dados está abaixo dela e a outra metade está acima dela.
+
+![](https://educa.ibge.gov.br/images/vamoscontar/recursos/mediana/mediana_animacao4.gif)
+
+
+
+
+
+
+
+[TOC]
+
+
+
+
+
+
+
+
 
 
 
