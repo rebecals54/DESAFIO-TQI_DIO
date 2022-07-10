@@ -4,7 +4,7 @@
 
 # DESAFIO-TQI_DIO
 
-#Média | Moda |Mediana 
+# Média | Moda |Mediana 
 
 ## Média
 
@@ -16,16 +16,16 @@
 
 ### *Equação*
 
-###![Média](https://wikimedia.org/api/rest_v1/media/math/render/svg/c938ca170f8c4a5d2dddecabc5ae1d5eb5f35a2b)
+### ![Média](https://wikimedia.org/api/rest_v1/media/math/render/svg/c938ca170f8c4a5d2dddecabc5ae1d5eb5f35a2b)
 
 ### *Exemplo*
 
-| #####Aluno   | #####Nota |
+| Aluno   | Nota |
 | ------------ | --------- |
-| #####Roberto | #####10   |
-| #####Ana     | #####6    |
-| #####Beatriz | #####7    |
-| #####Diego   | #####5    |
+| Roberto | 10   |
+| Ana     | 6    |
+| Beatriz | 7    |
+| Diego   | 5    |
 
 ##### Qual a média dos 4 alunos?
 
@@ -55,17 +55,12 @@ $$
 
 ##### A mediana indica o valor médio em um conjunto de números ordenados. Ela indica qual é o valor que está exatamente no meio de um conjunto de dados, quando eles estão ordenados.
 
-#####A Mediana nos diz que metade (50%) dos valores do conjunto de dados está abaixo dela e a outra metade está acima dela.
+##### A Mediana nos diz que metade (50%) dos valores do conjunto de dados está abaixo dela e a outra metade está acima dela.
 
-![](https://educa.ibge.gov.br/images/vamoscontar/recursos/mediana/mediana_animacao4.gif)
-
-
+####    ![mediana](https://educa.ibge.gov.br/images/vamoscontar/recursos/mediana/mediana_animacao4.gif)
 
 
 
-
-
-[TOC]
 
 
 
